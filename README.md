@@ -20,5 +20,6 @@ The objective of this lab is to understand how brute-force attacks are conducted
 
 - Hydra
 - Nmap
+- Nikto
 - Kali Linux Terminal
 - Burp Suite (for web authentication analysis)
