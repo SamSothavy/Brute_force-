@@ -23,3 +23,11 @@ The objective of this lab is to understand how brute-force attacks are conducted
 - Nikto
 - Kali Linux Terminal
 - Burp Suite (for web authentication analysis)
+
+## Step
+
+please clone this lab from repo:
+bash
+```
+
+```
